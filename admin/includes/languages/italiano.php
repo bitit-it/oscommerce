@@ -16,8 +16,8 @@
 // 'en_US.UTF-8', 'en_US.UTF8', 'enu_usa'
 // 'en_GB.UTF-8', 'en_GB.UTF8', 'eng_gb'
 // 'en_AU.UTF-8', 'en_AU.UTF8', 'ena_au'
+setlocale(LC_TIME, ['it_IT.UTF-8', 'it_IT.UTF8','ita_ITA'});
 
-setlocale(LC_TIME, 'it_IT.utf-8');
 const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
 const DATE_FORMAT_LONG= '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
