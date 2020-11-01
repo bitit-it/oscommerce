@@ -27,4 +27,3 @@ define('MY_ORDERS_VIEW', 'Visualizza gli Ordini che ho fatto.');
 define('EMAIL_NOTIFICATIONS_TITLE', 'E-Mail di Notifica');
 define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Iscrivi o Cancellati dalla newsletter.');
 define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Visualizza o cambia la lista dei prodotti da notificare.');
-?>
