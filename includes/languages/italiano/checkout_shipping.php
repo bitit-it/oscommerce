@@ -23,4 +23,4 @@ define('ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS', 'La spedizione non è 
 
 define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continue l\'Acquisto');
 
-?>
+
