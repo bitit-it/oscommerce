@@ -55,4 +55,4 @@ define('ERROR_INVALID_KEYWORDS', 'Parole chiave non valide.');
 
 // text for date of birth example
 define('DOB_FORMAT_STRING', 'dd/mm/yyyy');
-?>
+
