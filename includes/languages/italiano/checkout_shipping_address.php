@@ -24,4 +24,3 @@ define('TEXT_CREATE_NEW_SHIPPING_ADDRESS', 'Usa il seguente modulo per creare un
 
 define('BUTTON_SELECT_ADDRESS', 'Usa questo indirizzo');
 define('BUTTON_ADD_NEW_ADDRESS', 'Aggiungi e usa questo indirizzo');
-?>
