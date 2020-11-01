@@ -19,4 +19,3 @@ define('TEXT_NO_PRODUCTS', 'Non ci sono offerte speciali disponibili al momento.
 define('META_SEO_TITLE', 'Special Offers Page');
 define('META_SEO_DESCRIPTION', 'Specials Description');
 
-?>
