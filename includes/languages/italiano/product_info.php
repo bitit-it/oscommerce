@@ -8,6 +8,7 @@
   Copyright (c) 2018 osCommerce
 
   Released under the GNU General Public License
+   edit 01/11/2020
 */
 
-?>
+ 
