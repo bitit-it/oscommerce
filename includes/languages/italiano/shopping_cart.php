@@ -13,4 +13,3 @@
 define('NAVBAR_TITLE', 'Contenuto carrello');
  
 
-?>
