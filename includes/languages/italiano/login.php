@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id$
+  $Id$ 01/11/2020
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -12,4 +12,4 @@
 
 define('NAVBAR_TITLE', 'Accedi');
  
-?>
+
