@@ -159,10 +159,3 @@ const PLACEHOLDER_COMMA_SEPARATION =  'Devono, essere, separati, da, una, virgol
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 const TEXT_IMAGE_NON_EXISTENT = 'IMAGE DOES NOT EXIST';
-
-//Feeder Systems
-const BOX_FEEDERS_GOOGLE =  'feed shop';
-const TEXT_FEEDERS_BING =  'Crea e carica un feed Bing';
-const TEXT_FEEDERS_BING_NOFTP =  'Crea  <b>senza</b> caricare un feed Bing ';
-const TEXT_FEEDERS_GOOGLE =  'Crea e carica un feed GoogleBase ';
-const TEXT_FEEDERS_GOOGLE_NOFTP =  'Crea   <b>senza</b> caricare un feed GoogleBase ';
