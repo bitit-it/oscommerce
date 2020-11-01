@@ -7,6 +7,7 @@
   Copyright (c) 2003 osCommerce
   Released under the GNU General Public License
   Norwegian language files MS2.2
+   edit 01/11/2020
   
 */
 
@@ -15,4 +16,4 @@ define('HEADING_TITLE', 'Informativa sulla Privacy');
 
 define('TEXT_INFORMATION', 'Inserisci il tuo Informativa sulla Privacy qui! ');
 
-?>
+
