@@ -24,5 +24,3 @@ define('TEXT_CREATE_NEW_PAYMENT_ADDRESS', 'Utilizza questo modulo per creare un 
 
 define('BUTTON_SELECT_ADDRESS', 'Usa questo indirizzo');
 define('BUTTON_ADD_NEW_ADDRESS', 'Aggiungi e usa questo indirizzo');
-
-?>
