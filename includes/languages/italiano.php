@@ -8,6 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
+  edit 01/11/2020
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -18,11 +19,11 @@
 // 'en_AU.UTF-8', 'en_AU.UTF8', 'ena_au'
 @setlocale(LC_TIME, 'it_IT.UTF-8');
 
-const DATE_FORMAT_SHORT = '%m/%d/%Y';  // this is used for strftime()
+const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
 const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
-const DATE_FORMAT = 'm/d/Y'; // this is used for date()
+const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_FORMAT = 'mm/dd/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
+const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
