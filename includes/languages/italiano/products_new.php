@@ -8,6 +8,7 @@
   Copyright (c) 2002 osCommerce 
 
   Released under the GNU General Public License 
+   edit 01/11/2020
 */
 
 define('NAVBAR_TITLE', 'Nuovi prodotti');
@@ -17,4 +18,3 @@ define('TEXT_MANUFACTURER', 'Produttore:');
 define('TEXT_PRICE', 'Prezzo:');
 
 define('TEXT_NO_PRODUCTS', 'Non sono presenti prodotti da mostrare.');
-?>
