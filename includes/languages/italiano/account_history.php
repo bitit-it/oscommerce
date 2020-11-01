@@ -32,4 +32,3 @@ define('TEXT_NO_PURCHASES', 'Non hai ancora effettuato acquisti.');
 
 define('TEXT_DISPLAY_NUMBER_OF_ORDERS', 'Mostra <strong>%d</strong> fino <strong>%d</strong> (di <strong>%d</strong> ordini)');
 
-?>
