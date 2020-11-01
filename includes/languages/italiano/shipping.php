@@ -14,4 +14,3 @@ define('NAVBAR_TITLE', 'Spedizioni e recesso');
 define('HEADING_TITLE', 'Spedizioni e recesso');
 
 define('TEXT_INFORMATION', 'Inserire Spedizioni Resi e info qui!');
-?>
