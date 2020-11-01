@@ -1,11 +1,11 @@
 <?php
 /*
-  $Id: ssl_check.php,v 1.1 2003/03/10 23:32:20 hpdl Exp $
+  $Id$
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2003 osCommerce
+  Copyright (c) 2018 osCommerce
 
   Released under the GNU General Public License
 */
