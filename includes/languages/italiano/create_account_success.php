@@ -12,4 +12,3 @@
 
 define('NAVBAR_TITLE_1', 'Crea un  Account');
 define('NAVBAR_TITLE_2', 'Completato');
-?>
