@@ -8,6 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
+   edit 01/11/2020
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales..
