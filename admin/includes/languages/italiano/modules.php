@@ -22,4 +22,3 @@ define('TEXT_MODULE_DIRECTORY', 'Cartella Moduli:');
 
 const ERROR_MODULE_UNMET_REQUIREMENT = 'Questo modulo ha una dipendenza non soddisfatta.';
 const ERROR_MODULE_HAS_DEPENDENTS = 'Altri moduli dipendono da questo modulo.';
-?>
