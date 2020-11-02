@@ -31,15 +31,15 @@ const TEXT_PRODUCTS =  'Prodotti:';
 const TEXT_PRODUCTS_PRICE_INFO =  'Prezzo:';
 const TEXT_PRODUCTS_TAX_CLASS =  'Tipo di tassa:';
 const TEXT_PRODUCTS_AVERAGE_RATING =  'Valore medio:';
-const TEXT_PRODUCTS_QUANTITY_INFO =  'Quantit&agrave;:';
+const TEXT_PRODUCTS_QUANTITY_INFO =  'Quantità;:';
 const TEXT_DATE_ADDED =  'Data inserimento:';
-const TEXT_DATE_AVAILABLE =  'Data disponibilit&agrave;:';
+const TEXT_DATE_AVAILABLE =  'Data disponibilità;:';
 
 const TEXT_LAST_MODIFIED =  'Ultima modifica:';
 const TEXT_IMAGE_NONEXISTENT =  'L\'IMMAGINE NON ESISTE';
 const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS =  'Inserire una nuova categoria o un nuovo prodotto in <br>&nbsp;<br><b>%s</b>';
 const TEXT_PRODUCT_DATE_ADDED =  'Questo prodotto &egrave; stato aggiunto al catalogo il %s.';
-const TEXT_PRODUCT_DATE_AVAILABLE =  'Questo prodotto sar&agrave; disponibile il%s.';
+const TEXT_PRODUCT_DATE_AVAILABLE =  'Questo prodotto sarà; disponibile il%s.';
 
 const TEXT_EDIT_INTRO =  'Eseguire i cambiamenti necessari';
 const TEXT_EDIT_CATEGORIES_NAME =  'Nome categoria:';
@@ -72,14 +72,14 @@ const TEXT_CATEGORIES_IMAGE =  'Immagine per la categoria:';
 const TEXT_SORT_ORDER =  'Categoria num.:';
 
 const TEXT_PRODUCTS_STATUS =  'Stato prodotto:';
-const TEXT_PRODUCTS_DATE_AVAILABLE =  'Data disponibilit&agrave;:';
+const TEXT_PRODUCTS_DATE_AVAILABLE =  'Data disponibilità;:';
 const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = 'DD-MM-YYYY';
 const TEXT_PRODUCT_AVAILABLE =  'Disponibile';
 const TEXT_PRODUCT_NOT_AVAILABLE =  'Esaurito';
 const TEXT_PRODUCTS_MANUFACTURER =  'Produttore:';
 const TEXT_PRODUCTS_NAME =  'Nome prodotto:';
 const TEXT_PRODUCTS_DESCRIPTION =  'Descrizione prodotto:';
-const TEXT_PRODUCTS_QUANTITY =  'Quantit&agrave; prodotto:';
+const TEXT_PRODUCTS_QUANTITY =  'Quantità; prodotto:';
 const TEXT_PRODUCTS_MODEL =  'Modello prodotto:';
 const TEXT_PRODUCTS_IMAGE =  'Immagine prodotto:';
 const TEXT_PRODUCTS_MAIN_IMAGE =  'Principale';
