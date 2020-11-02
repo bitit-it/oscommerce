@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('WARNING_DOWNLOAD_DIRECTORY_NON_EXISTENT', 'I prodotti che vuoi scaricare non esistono:   [%s]. I prodotti scaricabili non funzioneranno finché sar&agrave; valida questa directory.');
+define('WARNING_DOWNLOAD_DIRECTORY_NON_EXISTENT', 'I prodotti che vuoi scaricare non esistono:   [%s]. I prodotti scaricabili non funzioneranno finché sarà; valida questa directory.');
 
