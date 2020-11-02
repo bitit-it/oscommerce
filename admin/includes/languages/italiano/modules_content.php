@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2014 osCommerce
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
@@ -23,4 +23,4 @@ define('TEXT_INFO_ONLINE_STATUS', 'Stato online');
 define('TEXT_INFO_API_VERSION', 'API Versione:');
 
 define('TEXT_MODULE_DIRECTORY', 'Modulo di repertorio:');
-?>
+
