@@ -45,4 +45,4 @@ define('TEXT_INFO_COUNTRY_ZONE', 'Stato/Provincia:');
 define('TYPE_BELOW', 'Tutti gli Stati/Province');
 define('PLEASE_SELECT', 'Tutti gli Stati/Province');
 define('TEXT_ALL_COUNTRIES', 'Tutte le Nazioni');
-?>
+
