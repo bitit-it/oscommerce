@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2010 osCommerce
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
@@ -26,4 +26,3 @@ define('TEXT_INFO_IDENTIFIER', 'Identificazione:');
 define('TEXT_INFO_DATE_ADDED', 'Aggiunto in data:');
 
 define('SUCCESS_EXPIRED_ENTRIES', 'Successo: %s le entrate scadute sono state rimosse.');
-?>
