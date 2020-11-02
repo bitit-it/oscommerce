@@ -34,6 +34,3 @@ const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   La pagina dei clienti richiede  'sortable_name', 'name', 'email_address', 'country_id', e 'id' moduli dati cliente da installare.  Manca:
 EOT;
-
- 
-?>
