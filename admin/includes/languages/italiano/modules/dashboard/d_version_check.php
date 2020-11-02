@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2010 osCommerce
+  Copyright (c) 2019 osCommerce
 
   Released under the GNU General Public License
 */
@@ -16,5 +16,4 @@ define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DATE', 'Ultima Verifica');
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CHECK_NOW', 'Verifica adesso');
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_NEVER', 'Mai');
 define('MODULE_ADMIN_DASHBOARD_VERSION_CHECK_UPDATE_AVAILABLE', 'E\' disponibile un aggiornamento di osCommerce Online Merchant!');
-?>
 
