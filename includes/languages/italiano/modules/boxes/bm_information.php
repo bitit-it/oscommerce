@@ -20,4 +20,3 @@
     'shipping.php' => 'Spedizioni  e resi',
     'contact_us.php' => 'Contatti'
   );
-?>
