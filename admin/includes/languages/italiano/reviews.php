@@ -44,4 +44,4 @@ define('TEXT_BAD', '<small><font color="#ff0000"><b>PESSIMO</b></font></small>')
 define('TEXT_INFO_HEADING_DELETE_REVIEW', 'Cancella Recensione');
 
 const IMAGE_BUTTON_ADD_REVIEW = 'Lascia una Recensione';
-?>
+
