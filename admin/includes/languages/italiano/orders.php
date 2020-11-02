@@ -26,7 +26,7 @@ define('TABLE_HEADING_ORDER_TOTAL', 'Totale Ordine');
 define('TABLE_HEADING_DATE_PURCHASED', 'Data di acquisto');
 define('TABLE_HEADING_STATUS', 'Stato');
 define('TABLE_HEADING_ACTION', 'Azione');
-define('TABLE_HEADING_QUANTITY', 'Quantit&agrave;');
+define('TABLE_HEADING_QUANTITY', 'Quantità;');
 define('TABLE_HEADING_PRODUCTS_MODEL', 'Modello');
 define('TABLE_HEADING_PRODUCTS', 'Prodotti');
 define('TABLE_HEADING_TAX', 'Tassa');
@@ -63,7 +63,7 @@ define('ENTRY_PRINTABLE', 'Stampa Fattura');
 
 define('TEXT_INFO_HEADING_DELETE_ORDER', 'Cancella Ordine');
 define('TEXT_INFO_DELETE_INTRO', 'Sicuro di voler cancellare questo ordine?');
-define('TEXT_INFO_RESTOCK_PRODUCT_QUANTITY', 'Ristabilisci la quantit&agrave; del Prodotto');
+define('TEXT_INFO_RESTOCK_PRODUCT_QUANTITY', 'Ristabilisci la quantità; del Prodotto');
 define('TEXT_DATE_ORDER_CREATED', 'Data di creazione:');
 define('TEXT_DATE_ORDER_LAST_MODIFIED', 'Ultima modifica:');
 define('TEXT_INFO_PAYMENT_METHOD', 'Metodo di Pagamento:');
