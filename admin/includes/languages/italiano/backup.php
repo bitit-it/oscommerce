@@ -45,4 +45,3 @@ define('SUCCESS_DATABASE_RESTORED', 'Operazione riuscita: Il Database &egrave; s
 define('SUCCESS_BACKUP_DELETED', 'Operazione riuscita: Il File di salvataggio &egrave; stato rimosso.');
 
 define('TEXT_INFO_BACKUP_SIZE', '%s MB');
-?>
