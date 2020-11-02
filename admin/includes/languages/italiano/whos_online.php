@@ -27,4 +27,4 @@ define('TEXT_SHOPPING_CART_SUBTOTAL', 'Subtotale');
 define('TEXT_SHOPPING_CART_NA', 'N/A');
 
 define('TEXT_NUMBER_OF_CUSTOMERS', 'Al momento ci sono %s clienti on-line');
-?>
+
