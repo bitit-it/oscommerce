@@ -43,4 +43,4 @@ define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', '<strong>Errore:</strong> Il modulo
 
 define('TEXT_TITLE', 'Titolo:');
 define('TEXT_CONTENT', 'Contenuto:');
-?>
+
