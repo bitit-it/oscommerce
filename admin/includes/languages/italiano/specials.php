@@ -35,4 +35,4 @@ define('TEXT_INFO_HEADING_DELETE_SPECIALS', 'Cancella Offerta');
 define('TEXT_INFO_DELETE_INTRO', 'Sicuro di voler cancellare il prezzo delle Offerte?');
  
 define('BUTTON_INSERT_SPECIAL', 'Inserisci una nuova Offerta'); 
-?>
+
