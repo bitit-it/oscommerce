@@ -33,4 +33,4 @@ define('ENTRY_TOTAL', 'Totale:');
 define('ENTRY_INVOICE_NUMBER', 'Fattura: %s');
 define('ENTRY_INVOICE_DATE', 'Data: %s');
 
-?>
+
