@@ -36,4 +36,4 @@ define('BUTTON_SAVE_TO_DISK', 'Salva nel tuo Hard Drive');
 define('BUTTON_SEND_TO_OSCOMMERCE', 'Invia a osCommerce');
 
 
-?>
+
