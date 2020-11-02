@@ -92,11 +92,3 @@ define('TEXT_ORDER_STATUS', '<strong>%s</strong> [%s]');
 define('TEXT_ORDER_PAYMENT', '<strong>%s</strong> [%s]');
 
 
-/*
-define('MODULE_PAYMENT_BANCASELLA_TEXT_BANK_TRANSACTION_ID', 'Id transazione attribuito dalla banca:');
-define('MODULE_PAYMENT_BANCASELLA_TEXT_SHOP_TRANSACTION_ID', 'Id transazione attribuito dal negozio:');
-define('MODULE_PAYMENT_BANCASELLA_TEXT_AUTHORIZATION_CODE', 'Codice di autorizzazione transazione');
-define('MODULE_PAYMENT_BANCASELLA_TEXT_AMOUNT', 'Ammontare transazione autorizzata:');
-define('MODULE_PAYMENT_BANCASELLA_TEXT_DATE', 'Transazione effettuata:');
-*/
-?>
