@@ -20,4 +20,3 @@ define('MODULE_ADMIN_DASHBOARD_LATEST_NEWS_ICON_FACEBOOK', 'Diventa un fan di os
 define('MODULE_ADMIN_DASHBOARD_LATEST_NEWS_ICON_TWITTER', 'Segui osCommerce su Twitter');
 define('MODULE_ADMIN_DASHBOARD_LATEST_NEWS_ICON_RSS', 'Sottoscrivi le osCommerce News RSS Feed');
  
-?>
