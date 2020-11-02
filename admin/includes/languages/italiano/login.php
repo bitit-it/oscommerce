@@ -23,4 +23,4 @@ define('BUTTON_LOGIN', 'Login');
 define('BUTTON_CREATE_ADMINISTRATOR', 'Crea Amministratore');
 
 define('ERROR_ACTION_RECORDER', '<b>Errore:</b> Il numero massimo di tentativi di accesso non sono stati fatti. Riprova fra %s minuti.');
-?>
+
