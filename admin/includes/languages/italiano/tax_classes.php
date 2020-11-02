@@ -25,4 +25,4 @@ define('TEXT_INFO_DELETE_INTRO', 'Sicuro di voler cancellare questo tipo di Tass
 define('TEXT_INFO_HEADING_NEW_TAX_CLASS', 'Nuova tipo di Tassa');
 define('TEXT_INFO_HEADING_EDIT_TAX_CLASS', 'Nuova tipo di Tassa');
 define('TEXT_INFO_HEADING_DELETE_TAX_CLASS', 'Cancella tipo di Tassa');
-?>
+
