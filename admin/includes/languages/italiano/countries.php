@@ -1,16 +1,13 @@
 <?php
-
 /*
-
   $Id$
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2013 osCommerce 
+  Copyright (c) 2020 osCommerce
 
-  Released under the GNU General Public License 
-
+  Released under the GNU General Public License
 */
 
 define('HEADING_TITLE', 'Nazioni');
@@ -29,4 +26,4 @@ define('TEXT_INFO_DELETE_INTRO', 'Sei sicuro di voler cancellare questa Nazione?
 define('TEXT_INFO_HEADING_NEW_COUNTRY', 'Nuova Nazione');
 define('TEXT_INFO_HEADING_EDIT_COUNTRY', 'Modifica Nazione');
 define('TEXT_INFO_HEADING_DELETE_COUNTRY', 'Cancella Nazione');
-?>
+
