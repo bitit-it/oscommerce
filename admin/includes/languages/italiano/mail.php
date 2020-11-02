@@ -26,4 +26,3 @@ const NOTICE_EMAIL_SENT_TO = '<strong>Avviso:</strong> Email spedita a: %s';
 const ERROR_NO_CUSTOMER_SELECTED = '<strong>Errore:</strong> Nessun Cliente selezionato';
 const ERROR_INVALID_EMAIL = '<strong>Errore:</strong> "%s" email non valida.';
 
-?>
