@@ -15,7 +15,7 @@ define('HEADING_TITLE', 'Login amministrazione');
 define('TEXT_USERNAME', 'Username:');
 define('TEXT_PASSWORD', 'Password:');
 
-define('TEXT_CREATE_FIRST_ADMINISTRATOR', 'Non esistono amministratori. Compila i campi seguenti per creare il primo amministratore. (Al termine della procedura sar&agrave; necessario rieffettuare il login)');
+define('TEXT_CREATE_FIRST_ADMINISTRATOR', 'Non esistono amministratori. Compila i campi seguenti per creare il primo amministratore. (Al termine della procedura sarà; necessario rieffettuare il login)');
 
 define('ERROR_INVALID_ADMINISTRATOR', '<b>Errore:</b> Tentativo di login invalido.');
 
