@@ -13,4 +13,4 @@
   define('MODULE_BOXES_CATEGORIES_TITLE', 'Categorie');
   define('MODULE_BOXES_CATEGORIES_DESCRIPTION', 'Mostra navigazione delle categorie');
   define('MODULE_BOXES_CATEGORIES_BOX_TITLE', 'Categorie');
-?>
+
