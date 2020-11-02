@@ -17,4 +17,3 @@
   define('MODULES_ADMIN_MENU_PAYPAL_LOG', 'Registro');
   define('MODULES_ADMIN_MENU_PAYPAL_MANAGE_CREDENTIALS', 'Credenziali');
   define('MODULES_ADMIN_MENU_PAYPAL_START', 'Inizia');
-?>
