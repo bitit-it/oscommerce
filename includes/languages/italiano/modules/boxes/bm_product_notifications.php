@@ -17,4 +17,3 @@
   define('MODULE_BOXES_PRODUCT_NOTIFICATIONS_BOX_NOTIFY_REMOVE', 'Non notificarmi aggiornamenti di <strong>%s</strong>');
 
   define('MODULE_BOXES_PRODUCT_NOTIFICATIONS_VIEW', '<i class="fas fa-eye"></i> Vedi tutto ');
-?>
