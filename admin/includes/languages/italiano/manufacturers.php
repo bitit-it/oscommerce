@@ -52,4 +52,4 @@ const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Edit the Manufacturer Title for SEO:<
 define('BUTTON_INSERT_NEW_MANUFACTURER', 'Nuovo Produttore');
 
 define('TEXT_MANUFACTURERS_IMAGE_LABEL', 'Seleziona  Produttore');
-?>
+
