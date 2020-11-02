@@ -122,4 +122,4 @@ const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Modifica il titolo della Categoria per i
 
 const TEXT_PRODUCTS_OTHER_IMAGES = 'Galleria Immagini';
  
-?>
+
