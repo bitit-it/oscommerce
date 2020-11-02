@@ -33,4 +33,4 @@ define('TEXT_INFO_DELETE_INTRO', 'Sicuro di voler cancellare questa aliquota di 
 define('TEXT_INFO_HEADING_NEW_TAX_RATE', 'Nuova Aliquota');
 define('TEXT_INFO_HEADING_EDIT_TAX_RATE', 'Modifica Aliquota');
 define('TEXT_INFO_HEADING_DELETE_TAX_RATE', 'Cancella Aliquota');
-?>
+
