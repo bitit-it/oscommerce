@@ -30,4 +30,4 @@ define('TEXT_INFO_HEADING_EDIT_LANGUAGE', 'Modifica Lingua');
 define('TEXT_INFO_HEADING_DELETE_LANGUAGE', 'Cancella Lingua');
 
 define('ERROR_REMOVE_DEFAULT_LANGUAGE', '<b>Errore</b>: La Lingua di default non pu&ograve; essere cancellata. Imposta una nuova lingua di default e riprova.');
-?>
+
