@@ -14,5 +14,3 @@
   define('MODULE_BOXES_REVIEWS_DESCRIPTION', 'Mostra recensioni prodotto');
 
   define('MODULE_BOXES_REVIEWS_BOX_TITLE', 'Recensioni');
-
-?>
