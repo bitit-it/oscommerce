@@ -17,4 +17,3 @@ define('TABLE_HEADING_DATE_EXPECTED', 'Data di arrivo');
 define('TABLE_HEADING_ACTION', 'Azione');
 
 define('TEXT_INFO_DATE_EXPECTED', 'Data di arrivo:');
-?>
