@@ -1,11 +1,11 @@
 <?php
 /*
-  $Id: administrators.php 1739 2007-12-20 00:52:16Z hpdl $
+  $Id$
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2007 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -32,4 +32,4 @@ define('HTPASSWD_SECURED', '<strong>Protezione aggiuntiva con htaccess/htpasswd<
 define('HTPASSWD_PERMISSIONS', '<strong>Protezione aggiuntiva con htaccess/htpasswd</strong><p>Lo strumento on line per installare una protezione aggiuntiva tramite htaccess/htpasswd means.</p><p>richiede che sia scrivibile il file  htaccess/htpasswd security layer:</p><ul><li>' . DIR_FS_ADMIN . '.htaccess</li><li>' . DIR_FS_ADMIN . '.htpasswd_oscommerce</li></ul><p>Ricarica la pagina per la conferma che il file si settato correttamente.</p>');
 
 define('IMAGE_INSERT_NEW_ADMIN', 'Nuovo utente amministratore');
-?>
+
