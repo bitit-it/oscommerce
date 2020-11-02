@@ -18,4 +18,4 @@ define('TABLE_HEADING_MODULE', 'Modulo');
 define('TABLE_HEADING_INFO', 'Informazioni');
 
 define('BUTTON_TEXT_RELOAD', 'Ricarica');
-?>
+
