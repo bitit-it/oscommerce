@@ -21,4 +21,4 @@ define('ENTRY_PAYMENT_METHOD', 'Metodo di pagamento:');
 
 define('ENTRY_INVOICE_NUMBER', 'Fattura: %s');
 define('ENTRY_INVOICE_DATE', 'Data: %s');
-?>
+
