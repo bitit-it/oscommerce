@@ -20,4 +20,4 @@ define('TEXT_EDIT_NOTE', '<strong>Definizioni Modifica</strong><br /><br />Ogni 
 define('TEXT_FILE_DOES_NOT_EXIST', 'Il File non esiste.');
 
 define('ERROR_FILE_NOT_WRITEABLE', 'Errore: Non posso scrivere su questo file. Abilita i permessi di scrittura adeguati su: %s');
-?>
+
