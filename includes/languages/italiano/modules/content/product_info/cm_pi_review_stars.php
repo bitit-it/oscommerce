@@ -22,5 +22,5 @@
   
   define('MODULE_CONTENT_PI_REVIEW_STARS_DO_REVIEW', 'Recensisci');
   
-  define('MODULE_CONTENT_PI_REVIEW_STARS_DO_FIRST_REVIEW', 'Essi il primo a recensire questo articolo');
+  define('MODULE_CONTENT_PI_REVIEW_STARS_DO_FIRST_REVIEW', 'Sii il primo a recensire questo articolo');
   
