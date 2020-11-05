@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id$
+  $Id$ 1.1 05/11/2020:1937
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -23,8 +23,6 @@ define('TEXT_ORDER_BILLED_TO', 'Fatturato a:');
 define('TEXT_ORDER_PRODUCTS', 'Prodotti:');
 define('TEXT_ORDER_COST', 'Costo ordine:');
 define('TEXT_VIEW_ORDER', 'Mostra gli acquisti');
-
-define('TEXT_NO_PURCHASES', 'Nessun acquisto effettuato.');
 
 define('BUTTON_VIEW_ORDER', '<i title="View this Order" class="fas fa-eye"></i>');
 
