@@ -117,6 +117,7 @@ const TEXT_PRODUCTS_SEO_DESCRIPTION_HELP = 'Add a &lt;descrizione&gt; per elemen
 const TEXT_PRODUCTS_SEO_KEYWORDS = 'Meta Keywords prodotti per SEO:<br><small>Add a &lt;keyword&gt; Meta Element or Search Engine.<br>Must be comma separated. HTML is not allowed.</small>';
 const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Aggiungi le frasi di ricerca separate da virgola. HTML non permesso.';
 const TEXT_PRODUCTS_SEO_TITLE = 'Titolo prodotto per il SEO:<br><small>Sostituisci il nome del prodotto nell\'elemento Meta &lt;title&gt;  <br>alternativamente inserisci anche le categorie.<br>Lascia vuoto per mettere il nome del prodotto di base.</small>';
+const TEXT_PRODUCTS_SEO_TITLE_HELP = 'Sostituisci il nome del Prodotto nell\elemenyo Meta  &lt;title&gt;   e facoltativamente nel nome della pagina. <br> Lascia vuoto il campo per impostare come predefinito il nome del Prodotto.';
 const TEXT_CATEGORIES_SEO_TITLE = 'Titolo Categoria per il  SEO:<br><small>Sostituisci il titolo della Categoria nell\'elemento Meta &lt;title&gt; .<br>lascia vuoti per lasciare il nome della categoria di base</small>';
 const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Modifica il titolo della Categoria per il SEO:<br><small>Sostituisci il titolo della Categoria nell\'elemento Meta &lt;title&gt; <br>alternativamente inserisci anche albero delle categorie..<br>lascia vuoti per lasciare il nome della categoria di base.</small>';
 
