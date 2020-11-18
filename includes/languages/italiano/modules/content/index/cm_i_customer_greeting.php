@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id$
+  $Id$ edit 18/11/2020
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -11,7 +11,7 @@
 */
 
 
-  const MODULE_CONTENT_CUSTOMER_GREETING_TITLE       = 'Recensioni dei Clienti';
+  const MODULE_CONTENT_CUSTOMER_GREETING_TITLE       = 'Accesso Clienti';
   const MODULE_CONTENT_CUSTOMER_GREETING_DESCRIPTION = 'Mostra le recensioni dei clienti nella home page del tuo sito';
 
   const MODULE_CONTENT_CUSTOMER_GREETING_PERSONAL    = 'Ben tornato <strong>%s!</strong> Vuoi vedere quale  <a role="button" class="btn btn-info btn-xs" href="%s">Nuovo Prodotto</a> è disponibile per l\'acquisto?';
